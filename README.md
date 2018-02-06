@@ -1,2 +1,2 @@
-# VS17TestSite
-A test site for Visual Studio 2017
+# VS17 TestSite
+A test site for Visual Studio 2017.
